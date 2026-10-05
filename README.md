@@ -14,7 +14,7 @@
 - My Unordered
 - List ;)
 
-'This is my example...'
+'This is my example for code syntax'
 
 ---
 
