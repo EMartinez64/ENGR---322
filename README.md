@@ -18,5 +18,6 @@
 
 ---
 
-[Title](https://www.ThisIsMyExampleLink.com)
+[This is my link example](https://www.ThisIsMyExampleLink.com)
+
 ![This is my image example](image.jpg)
